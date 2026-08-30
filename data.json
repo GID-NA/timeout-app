@@ -1255,6 +1255,20 @@
    "link": "",
    "note": "",
    "status": "planned"
+  },
+  {
+   "id": "s085",
+   "title": "Сериал «Грозный»",
+   "theme": "cinema",
+   "where": "home",
+   "duration": "evening",
+   "dateOffset": null,
+   "time": null,
+   "spot": "",
+   "until": null,
+   "link": "",
+   "note": "",
+   "status": "planned"
   }
  ]
 }
